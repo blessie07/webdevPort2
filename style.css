@@ -1,6 +1,6 @@
 body {
 	background: url(bg.jpg) no-repeat center fixed;
-	background-color: red;
+	background-size: cover;
 	font-family: sans-serif;
 	text-align: center;
 }
@@ -19,8 +19,9 @@ h2{
 }
 
 .bio{
-	color: yellow;
+	color: blue;
    	font-size: 14px;
+
 
 }
 
